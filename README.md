@@ -12,15 +12,15 @@ Firebase
 ## Screenshot
 
 ### Login
-![](images/screen1.png)
+![](/images/screen1.png)
 
 ### Profile
 
-![](images/screen2.png)
+![](/images/screen2.png)
 
 ### News feed
 
-![](images/screen3.png)
+![](/images/screen3.png)
 
 ## Available Scripts
 
